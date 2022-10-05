@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/logo-cambiatus.png" alt="Cambiatus" height="25"/></p>
 
 # <p align="center">Learning Path</p>
-**We are delighted that you are interested in creating your social currency using Cambiatus.**
+**We are delighted that you are interested in creating your social currency using Cambiatus!**
 
 Our coin co-design process starts with a mindset change. To be able to design complementary currencies, we need to re-signify what money is, what success is, and imagine new organizations.
 
